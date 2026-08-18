@@ -1,7 +1,7 @@
 # Manohar Chowdary — Portfolio Website
 My personal developer portfolio built with HTML, CSS, and JavaScript — featuring my cybersecurity and software development projects, skills, and experience.
 
-🔗 **Live Site:** https://manohar22-hub.github.io/
+🔗 **Live Site:** https://manohar22-hub.github.io/Portfolio/
 
 ## About
 
